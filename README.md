@@ -9,7 +9,7 @@ descargaron del [UCI Machine Learning Repository][(ttps://archive.ics.uci.edu/da
 Reference Publication 1218](https://ntrs.nasa.gov/api/citations/19890016302/downloads/19890016302.pdf)
 
 Este proyecto incluye los siguientes documentos:
-- [Reporte de regresion lineal multivariable](https://github.com/hectorcamachoz/Regresion_lineal_multivariable/blob/main/A1_3_594557.html)
-- [Descargar archivo base de datos](https://github.com/hectorcamachoz/Regresion_lineal_multivariable/blob/main/NASA.csv)
-- [Descargar archivo .ipynb](https://github.com/hectorcamachoz/Regresion_lineal_multivariable/blob/main/A1_3_594557.ipynb)
+- [Reporte de regresion lineal multivariable](A1_3_594557.html)
+- [Descargar archivo base de datos](NASA.csv)
+- [Descargar archivo .ipynb](A1_3_594557.ipynb)
 
